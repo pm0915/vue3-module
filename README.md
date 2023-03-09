@@ -12,9 +12,17 @@ cd vue3-module
 rm -rf .git
 ```
 
+**version requirements**
+
+```shell
+# It is recommended to use nvm to manage different versions of Node .js
+Node.js Vresion >= 16.17.0
+```
+
 **install dependencies**
 
 ```shell
+# It is recommended to use pnpm, please install pnpm globally before using it
 pnpm install
 ```
 
